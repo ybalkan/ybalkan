@@ -24,3 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&locale=en" alt="ybalkan" /></p>
 
+
+
+
+![snake gif](https://github.com/ybalkan/ybalkan/blob/output/github-contribution-grid-snake.gif)
