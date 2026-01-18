@@ -37,6 +37,28 @@ Focused on developing high-performance embedded systems and autonomous robotic a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
 </p>
 
+## 📫 Let's Connect!
+
+<div align="center">
+
+<p>
+<a href="https://www.linkedin.com/in/skarayil/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/n4zerati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="mailto:sudekarayildirim@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔍 Profile Views & Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=skarayil&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/skarayil.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/skarayil?tab=followers)
+
+</div>
 
 ---
 
