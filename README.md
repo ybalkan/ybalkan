@@ -31,16 +31,8 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 ### 📊 GitHub Insights
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=flat-white&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=flat-white" alt="Top Languages" />
-</p>
-
----
-
-### 📈 Contribution Graph
-Here's a visual representation of my recent activity:
-<p align="center">
-  <img src="https://github-contributions-grid-snake.vercel.app/grid.svg?username=ybalkan&color=009571&size=600" alt="Yusuf's Contribution Grid" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=flat-white&include_all_commits=true&count_private=true&title_color=009571&icon_color=009571" alt="Yusuf's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=flat-white&title_color=009571" alt="Top Languages" />
 </p>
 
 ---
