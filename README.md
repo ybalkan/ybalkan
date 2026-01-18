@@ -30,19 +30,18 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571" alt="GitHub Streak" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=flat-white&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=flat-white" alt="Top Languages" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity
-![snake gif](https://github.com/ybalkan/ybalkan/blob/output/github-contribution-grid-snake.gif)
+### 📈 Contribution Graph
+Here's a visual representation of my recent activity:
+<p align="center">
+  <img src="https://github-contributions-grid-snake.vercel.app/grid.svg?username=ybalkan&color=009571&size=600" alt="Yusuf's Contribution Grid" />
+</p>
 
 ---
 
