@@ -26,17 +26,6 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&bg_color=00000000&color=009571&line=009571&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
 ### 📊 System Analytics & Activity
 
 <p align="center">
