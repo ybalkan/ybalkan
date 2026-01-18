@@ -30,9 +30,13 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 
 ### 📊 GitHub Insights
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=flat-white&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=flat-white" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" alt="GitHub Streak" />
 </p>
 
 ---
