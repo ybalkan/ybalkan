@@ -23,38 +23,29 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&weight=bold)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
-
 ### 📊 System Analytics & Activity
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" />
+</p>
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" width="90%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
 </p>
 
+
 ---
 
 ### 📫 Connect & Professional Networks
-
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-balkan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23009571.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ybalkan" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
