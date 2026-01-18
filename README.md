@@ -35,7 +35,7 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideLabels=009571" alt="GitHub Streak" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=dark&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideLabels=009571&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
