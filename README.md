@@ -36,7 +36,7 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571" alt="GitHub Streak" />
 </p>
 
 ---
