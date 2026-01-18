@@ -52,3 +52,14 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 <a href="https://kaggle.com/yusufblkn" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://behance.net/yusufbalkan" target="blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white" /></a>
 </p>
+
+
+## Pacman
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
