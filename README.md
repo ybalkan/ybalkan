@@ -10,7 +10,7 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 ### 🛠 Technical Expertise
 
 **Programming & Logic:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%23009571.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,24 +31,19 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571" alt="GitHub Streak" />
 </p>
-
----
-
-### 🐍 Contribution Activity
-![snake gif](https://github.com/ybalkan/ybalkan/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
 ### 📫 Connect & Professional Networks
 <p align="left">
-<a href="https://linkedin.com/in/yusuf-balkan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yusuf-balkan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23009571.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ybalkan" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://kaggle.com/yusufblkn" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://behance.net/yusufbalkan" target="blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white" /></a>
