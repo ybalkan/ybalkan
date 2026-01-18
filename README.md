@@ -55,10 +55,24 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 
 ## 📊 GitHub Analytics
 
+### 📊 İstatistikler ve Çalışma Verimliliği
+
 <div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=skarayil&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf'un GitHub İstatistikleri" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" width="90%" alt="En Çok Kullanılan Diller" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
