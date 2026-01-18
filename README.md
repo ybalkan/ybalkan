@@ -1,6 +1,4 @@
-# 👋 Welcome to my Portfolio
 # Yusuf BALKAN
-
 ### **Mechatronics Engineering Student**
 **Bridging Hardware & Software through Robotics & Automation**
 
