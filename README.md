@@ -23,45 +23,17 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&weight=bold)
 
 ---
+
 ### 📊 System Analytics & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
-</p>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<p>
-<a href="https://www.linkedin.com/in/skarayil/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/n4zerati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:sudekarayildirim@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-### 📊 İstatistikler ve Çalışma Verimliliği
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="Yusuf'un GitHub İstatistikleri" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
@@ -69,37 +41,20 @@ Focused on developing high-performance embedded systems and autonomous robotic a
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" width="90%" alt="En Çok Kullanılan Diller" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" width="90%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skarayil/skarayil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skarayil/skarayil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/skarayil/skarayil/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<p>
-<a href="https://www.linkedin.com/in/skarayil/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/n4zerati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:sudekarayildirim@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
 </p>
-
-</div>
 
 ---
 
 ### 📫 Connect & Professional Networks
+
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-balkan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23009571.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/ybalkan" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
