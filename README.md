@@ -53,10 +53,33 @@ Focused on developing high-performance embedded systems and autonomous robotic a
 
 <div align="center">
 
-### 🔍 Profile Views & Visitors
+## 📊 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=skarayil&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/skarayil.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/skarayil?tab=followers)
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=skarayil&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skarayil/skarayil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skarayil/skarayil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/skarayil/skarayil/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<p>
+<a href="https://www.linkedin.com/in/skarayil/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/n4zerati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="mailto:sudekarayildirim@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
+</p>
 
 </div>
 
