@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Yusuf BALKAN
 
-### Mechatronics Engineering Student
-**Developing Innovative Solutions in Robotics & Embedded Systems**
+### **Mechatronics Engineering Student**
+**Building the bridge between Hardware & Software with Robotics & Automation**
 
-I am a mechatronics engineer candidate focused on the integration of hardware and software. My work involves Python, embedded systems, and creating autonomous robotic applications.
+Focused on developing high-performance embedded systems and autonomous robotic applications. Currently mastering C and Python to create integrated mechatronic solutions.
 
 ---
 
@@ -36,7 +36,7 @@ I am a mechatronics engineer candidate focused on the integration of hardware an
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571" alt="GitHub Streak" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571" alt="GitHub Streak" />
 </p>
 
 ---
