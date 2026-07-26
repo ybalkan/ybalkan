@@ -27,7 +27,6 @@ Name: Yusuf Balkan
 Location: Türkiye
 
 Current Roles:
-  - Project Manager @ Black Sky Qore
   - 42 Türkiye Student
 
 Education:
@@ -233,7 +232,7 @@ My engineering interests span from low-level programming and embedded developmen
 
 <p align="center">
 
-<a href="mailto:yusufbalkan@outlook.com">
+<a href="mailto:yusufblkn@gmail.com">
 <img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -244,6 +243,10 @@ My engineering interests span from low-level programming and embedded developmen
 <a href="https://linkedin.com/in/yusuf-balkan">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://instagram.com/ybalkan.py">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 
 <a href="https://kaggle.com/yusufblkn">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
