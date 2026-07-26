@@ -1,62 +1,268 @@
-# Yusuf BALKAN
-### **Mechatronics Engineering Student**
-**Bridging Hardware & Software through Robotics & Automation**
+<div align="center">
 
-Focused on developing high-performance embedded systems and autonomous robotic applications. Currently mastering C and Python to create integrated mechatronic solutions.
-
----
-
-### 🛠 Technical Expertise
-
-**Programming & Logic:**
-![C](https://img.shields.io/badge/c-%23009571.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Robotics & Systems:**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Frameworks & Creative Tools:**
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
----
-### 📊 System Analytics & Activity
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Yusuf+Balkan;Robotics+%26+Embedded+Systems+Engineer;42+Türkiye+Student;Project+Manager+%40+Black+Sky+Qore;Building+the+Bridge+Between+Hardware+and+Software" />
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=transparent&hide_border=true&title_color=009571&icon_color=009571&text_color=777&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=transparent&hide_border=true&title_color=009571&text_color=777" />
+  <img src="https://komarev.com/ghpvc/?username=ybalkan&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ybalkan?style=for-the-badge&color=7aa2f7" />
+  <img src="https://img.shields.io/github/stars/ybalkan?style=for-the-badge&color=7aa2f7" />
 </p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=transparent&hide_border=true&stroke=009571&ring=009571&fire=009571&currStreakNum=009571&sideNums=777&sideLabels=777&dates=777" alt="GitHub Streak" />
+<h3>
+Robotics • Embedded Systems • Automation • Software Engineering
+</h3>
+
+<p>
+Passionate about designing intelligent systems where hardware, software, automation and artificial intelligence converge.
+</p>
+
 </div>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=react-dark&area=true&color=009571&bg_color=00000000&hide_border=true" width="100%" />
-</p>
+# ⚡ About Me
 
+```yaml
+Name: Yusuf Balkan
+Location: Türkiye
+
+Current Roles:
+  - Project Manager @ Black Sky Qore
+  - 42 Türkiye Student
+
+Education:
+  - Mechatronics (Robotics & Automation)
+
+Focus Areas:
+  - Embedded Systems
+  - Robotics Engineering
+  - Computer Vision
+  - Automation Systems
+  - Autonomous Platforms
+  - Artificial Intelligence
+  - System Programming
+
+Mission:
+  Building scalable technologies that connect
+  software intelligence with real-world hardware.
+```
+
+I am a robotics-focused engineer passionate about creating intelligent systems that combine software, electronics, automation, artificial intelligence, and autonomous decision-making.
+
+My engineering interests span from low-level programming and embedded development to robotics architectures, computer vision, AI-powered systems, and next-generation automation technologies.
 
 ---
 
-### 📫 Connect & Professional Networks
-<p align="left">
-<a href="https://linkedin.com/in/yusuf-balkan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23009571.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ybalkan" target="blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://kaggle.com/yusufblkn" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-<a href="https://behance.net/yusufbalkan" target="blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white" /></a>
+# 🏆 Professional Highlights
+
+- 🥇 Graduate of Mechatronics (Robotics & Automation)
+- 🎓 42 Türkiye Student
+- 🚀 Former Rocket Team Member (Magnetarge)
+- 👨‍💼 Project Manager & Business Development @ Black Sky Qore
+- 🤖 Builder of Autonomous Systems
+- 🔭 Passionate about AI, Robotics & Computer Vision
+- 🌍 Open Source Enthusiast
+- 🛠 Hardware & Software Integration Specialist
+
+---
+
+# ⚙️ Engineering Stack
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,bash" />
 </p>
 
+## 🤖 Robotics & Embedded Systems
 
-## 🕹️ Contribution Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ybalkan/ybalkan/output/pacman-contribution-graph.svg">
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,linux,raspberrypi" />
+</p>
+
+**Additional Tools**
+
+- Siemens TIA Portal
+- Proteus
+- FluidSIM
+- OpenRocket
+- Embedded Linux
+- Sensor Integration
+- Industrial Automation
+
+## ⚙️ Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,django,vscode" />
+</p>
+
+## 🎨 CAD & Engineering Design
+
+- SolidWorks
+- AutoCAD
+- Mechanical Design
+- Rapid Prototyping
+- 3D Printing
+
+## 🤖 Artificial Intelligence
+
+- Machine Learning Fundamentals
+- Computer Vision
+- AI Automation
+- Intelligent Systems
+- Agentic AI Research
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|-------------|
+| IRIS Turret | Intelligent surveillance platform integrating sensors, computer vision, tracking algorithms and autonomous decision systems | Python, Raspberry Pi, Computer Vision |
+| Laser Guided UGV | Unmanned ground vehicle controlled through immersive technologies and autonomous navigation concepts | Arduino, Robotics, Embedded Systems |
+| Magnetarge Rocket Systems | Aerospace engineering and launch system development project focused on high-performance design and simulation | CAD, Simulation, Engineering |
+| SCRIM CITY | Autonomous technology ecosystem integrating smart monitoring and intelligent infrastructure concepts | Robotics, AI, Embedded |
+| Carbon Impact Platform | Sustainability-focused software platform for carbon footprint measurement and environmental impact management | Python, Data Analytics |
+
+---
+
+# 🏗 Engineering Interests
+
+### Embedded Systems
+- Microcontrollers
+- Firmware Development
+- Embedded Linux
+- Real-Time Systems
+
+### Robotics
+- Autonomous Navigation
+- Sensor Fusion
+- Robotics Software
+- Human-Machine Interaction
+
+### Artificial Intelligence
+- Computer Vision
+- AI Agents
+- Intelligent Automation
+- Applied Machine Learning
+
+### Software Engineering
+- System Programming
+- Software Architecture
+- Performance Optimization
+- Scalable Systems
+
+---
+
+# 🌱 Currently Exploring
+
+- Artificial Intelligence Engineering
+- Agentic AI
+- Multi-Agent Systems
+- Computer Vision
+- Robotics Software Architecture
+- Autonomous Systems
+- Distributed Systems
+- Cloud Native Technologies
+- High Performance Computing
+- Human-Robot Interaction
+- Embedded Linux
+- Advanced C Programming
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ybalkan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybalkan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ybalkan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybalkan&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ybalkan&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+# 📊 Development Metrics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ybalkan&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ybalkan&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ybalkan&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ybalkan/ybalkan/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Master Advanced Embedded Development
+- Deepen Robotics Software Engineering Expertise
+- Build Production-Level AI Applications
+- Contribute More to Open Source
+- Develop Autonomous Systems
+- Expand Research in Human-Machine Interaction
+- Strengthen Software Architecture Skills
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:yusufbalkan@outlook.com">
+<img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ybalkan">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yusuf-balkan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/yusufblkn">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://behance.net/yusufbalkan">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💬 Engineering Philosophy
+
+> "The best engineers don't choose between hardware and software — they master both."
+
+### ⚡ Building Intelligent Systems, One Project at a Time
+
+</div>
