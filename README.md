@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Yusuf+Balkan;Robotics+%26+Embedded+Systems+Engineer;42+Türkiye+Student;Project+Manager+%40+Black+Sky+Qore;Building+the+Bridge+Between+Hardware+and+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Yusuf+Balkan;Robotics+%26+Embedded+Systems+Engineer;42+Türkiye+Student;Building+the+Bridge+Between+Hardware+and+Software" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ybalkan&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" />
